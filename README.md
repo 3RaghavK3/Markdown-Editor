@@ -12,4 +12,4 @@ A lightweight Markdown editor built using **Vanilla HTML, CSS, and JavaScript** 
 
 ## Live Demo
 
-[Click here to view the live demo]()
+[Click here to view the live demo](https://3raghav3md.netlify.app/)
